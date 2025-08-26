@@ -1,4 +1,4 @@
-package com.example.sas_re
+package com.example.dugasta_re
 
 import io.flutter.embedding.android.FlutterActivity
 
